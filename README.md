@@ -9,7 +9,7 @@
 1. Clone Respository
 
     ```makefile
-    $ git clone https://github.com/Nishant-Badgujar18/Sudoku-Validator.git
+    $ git clone https://github.com/Nishant-Badgujar18/Facial-expression-recognition.git
     ```
     
 2. **OpenCV:** This is one of the libraries which is widely used in processing images, particularly real time images.
