@@ -23,4 +23,18 @@
     ```makefile
     $ pip install keras
     ```
+    
+4. **Tensorflow:** TensorFlow provides a collection of workflows to develop and train models using Python or JavaScript
+
+    ```makefile
+    $ pip3 install tensorflow
+    ```
+    
+# Run
+
+# Authors
+
+* **Kalpesh Ahire (111903038)** 
+* **Kunal More (111903043)**
+* **Nishant Badgujar (111903053)**
    
