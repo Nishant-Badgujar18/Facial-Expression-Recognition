@@ -32,9 +32,19 @@
     
 # Run
 
+-   Just run main.py file with proper paths of haarcascade_frontalface_default.xml and model.h5 files
+
+    ```makefile
+    $ python3 main.py
+    ```
+
 # Authors
 
 * **Kalpesh Ahire (111903038)** 
 * **Kunal More (111903043)**
 * **Nishant Badgujar (111903053)**
+
+# Data Set Link: 
+
+https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
    
